@@ -1,4 +1,4 @@
-# PaperPluginTemplate
+# Paper Plugin Template
 
 <hr>
 
